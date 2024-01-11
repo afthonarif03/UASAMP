@@ -1,0 +1,86 @@
+name: afthonuts
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.0.0+4
+  image_picker: ^1.0.7
+  firebase_core: ^2.24.2
+  firebase_database: ^10.4.0
+  firebase_storage: ^11.6.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/afthonarif.jpg
+    - assets/logo.png
+    - assets/menu1.png
+    - assets/menu2.png
+    - assets/menu3.png
+    - assets/menu4.png
+    - assets/menu5.png
+    - assets/menu6.png
+    - assets/kucing.png
+    - assets/gajah.png
+    - assets/ikan.png
+    - assets/sapi.png
+    - assets/ayam.png
+    - assets/jerapah.png
+    - assets/alfabet/a.png
+    - assets/alfabet/b.png
+    - assets/alfabet/c.png
+    - assets/alfabet/d.png
+    - assets/alfabet/e.png
+    - assets/alfabet/f.png
+    - assets/alfabet/g.png
+    - assets/alfabet/h.png
+    - assets/alfabet/i.png
+    - assets/alfabet/j.png
+    - assets/alfabet/k.png
+    - assets/alfabet/l.png
+    - assets/alfabet/m.png
+    - assets/alfabet/n.png
+    - assets/alfabet/o.png
+    - assets/alfabet/p.png
+    - assets/alfabet/q.png
+    - assets/alfabet/r.png
+    - assets/alfabet/s.png
+    - assets/alfabet/t.png
+    - assets/alfabet/u.png
+    - assets/alfabet/v.png
+    - assets/alfabet/w.png
+    - assets/alfabet/x.png
+    - assets/alfabet/y.png
+    - assets/alfabet/z.png
+    - assets/angka/0.png
+    - assets/angka/1.png
+    - assets/angka/2.png
+    - assets/angka/3.png
+    - assets/angka/4.png
+    - assets/angka/5.png
+    - assets/angka/6.png
+    - assets/angka/7.png
+    - assets/angka/8.png
+    - assets/angka/9.png
+    - assets/benda/kasur.png
+    - assets/benda/lampu.png
+    - assets/benda/lemari.png
+    - assets/benda/meja.png
+    - assets/benda/sofa.png
+    - assets/benda/tv.png
+
+ 
