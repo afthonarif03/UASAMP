@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337199666170",
+    "firebase_url": "https://datasiswa-41ddf-default-rtdb.firebaseio.com",
+    "project_id": "datasiswa-41ddf",
+    "storage_bucket": "datasiswa-41ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337199666170:android:9d9e52105d90e85c810a43",
+        "android_client_info": {
+          "package_name": "com.example.afthonuts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_Jbgu8QtrgIEAYBERDH2EuPNkwIjgZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
